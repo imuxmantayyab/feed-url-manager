@@ -1,0 +1,106 @@
+# Copyright (C) 2026 Usman Tayyab
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Feed URL Manager Pro 2.0.0\n"
+"Report-Msgid-Bugs-To: https://www.linkedin.com/in/imuxmantayyab/\n"
+"POT-Creation-Date: 2026-09-07 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Usman Tayyab <https://www.linkedin.com/in/imuxmantayyab/>\n"
+"Language-Team: English <https://www.linkedin.com/in/imuxmantayyab/>\n"
+"X-Domain: feed-url-manager\n"
+
+#: feed-url-manager.php:15
+msgid "Feed URL Manager Pro"
+msgstr ""
+
+#: feed-url-manager.php:17
+msgid "Advanced Feed Management system for WordPress with multi-level control (Global, Content Type, URL Rules), SEO discovery control, and seamless Elementor compatibility."
+msgstr ""
+
+#: includes/class-admin.php:40
+msgid "Feed URL Manager"
+msgstr ""
+
+#: includes/class-admin.php:57
+msgid "Settings"
+msgstr ""
+
+#: includes/class-admin.php:82
+msgid "Are you sure you want to delete this URL rule?"
+msgstr ""
+
+#: includes/class-admin.php:83
+msgid "Rule saved successfully!"
+msgstr ""
+
+#: includes/class-admin.php:84
+msgid "Rule deleted successfully!"
+msgstr ""
+
+#: includes/class-admin.php:85
+msgid "Debug log cleared successfully!"
+msgstr ""
+
+#: includes/class-admin.php:86
+msgid "Copied to clipboard!"
+msgstr ""
+
+#: includes/class-admin.php:87
+msgid "Scanning feed endpoints..."
+msgstr ""
+
+#: includes/class-admin.php:88
+msgid "Testing live HTTP response..."
+msgstr ""
+
+#: includes/class-admin.php:89
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: includes/class-admin.php:90
+msgid "Configuration imported successfully! Reloading..."
+msgstr ""
+
+#: includes/class-admin.php:157
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-admin.php:158
+msgid "General"
+msgstr ""
+
+#: includes/class-admin.php:159
+msgid "Feed Types"
+msgstr ""
+
+#: includes/class-admin.php:160
+msgid "Post Types"
+msgstr ""
+
+#: includes/class-admin.php:161
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/class-admin.php:162
+msgid "URL Rules"
+msgstr ""
+
+#: includes/class-admin.php:163
+msgid "SEO Controls"
+msgstr ""
+
+#: includes/class-admin.php:164
+msgid "HTTP Response"
+msgstr ""
+
+#: includes/class-admin.php:165
+msgid "Elementor Compatibility"
+msgstr ""
+
+#: includes/class-admin.php:166
+msgid "Diagnostics & Tools"
+msgstr ""
